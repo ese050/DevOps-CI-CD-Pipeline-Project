@@ -5,7 +5,7 @@
 
         <div class="row">
           <div class="col-50">
-            <h3>Ese's Billing Address Form</h3>
+            <h3>Ese's Billing Address</h3>
             <label for="fname"><i class="fa fa-user"></i> Full Name</label>
             <input type="text" id="fname" name="firstname" placeholder="John M. Doe">
             <label for="email"><i class="fa fa-envelope"></i> Email</label>
