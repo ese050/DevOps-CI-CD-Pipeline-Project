@@ -15,19 +15,19 @@
     <p>This album showcases our precious moments as a family, including our wedding, the birth of our son Jason, and our life together since 04/15/2018.</p>
     <div class="gallery">
         <div class="photo">
-            <img src="family_photo.jpg" alt="Ekrebe Family Photo">
+            <img src="photos/family_photo.jpg" alt="Ekrebe Family Photo">
             <div class="desc">Our Family Photo</div>
         </div>
         <div class="photo">
-            <img src="wedding_photo.jpg" alt="Ese and Olivia's Wedding">
+            <img src="photos/wedding_photo.jpg" alt="Ese and Olivia's Wedding">
             <div class="desc">Our Wedding Day</div>
         </div>
         <div class="photo">
-            <img src="jason_photo1.jpg" alt="Jason at 6 Months">
+            <img src="photos/jason_photo1.jpg" alt="Jason at 6 Months">
             <div class="desc">Jason at 6 Months</div>
         </div>
         <div class="photo">
-            <img src="jason_photo2.jpg" alt="Jason's Eating time">
+            <img src="photos/jason_photo2.jpg" alt="Jason's Eating time">
             <div class="desc">Jason's Eating by himself</div>
         </div>
     </div>
