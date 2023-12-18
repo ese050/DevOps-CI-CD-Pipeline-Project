@@ -19,7 +19,7 @@
             <div class="desc">Our Family Photo</div>
         </div>
         <div class="photo">
-            <img src="photos/wedding_photo.jpg" alt="Ese and Olivia's Wedding">
+            <img src="photos/wedding_photo.jpg" alt="Ese and Olivia's Wedding April 15. 2018">
             <div class="desc">Our Wedding Day</div>
         </div>
         <div class="photo">
