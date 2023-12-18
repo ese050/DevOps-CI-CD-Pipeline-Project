@@ -27,7 +27,7 @@
             <div class="desc">Jason at 6 Months</div>
         </div>
         <div class="photo">
-            <img src="photos/jason_photo2.jpg" alt="Jason's Eating time">
+            <img src="photos/jason_photo2.jpg" alt="Jason Love to Eat">
             <div class="desc">Jason's Eating by himself</div>
         </div>
     </div>
